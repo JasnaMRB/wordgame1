@@ -1,6 +1,8 @@
 # wordgame1
 Problem set
 
+[In version files, Be sure to change WORDLIST_FILENAME :)]
+
 Requirements:
 Letters are dealt to players, who then construct one or more words out of their letters. Each valid word receives a score, based on the length of the word and the letters in that word.
 
